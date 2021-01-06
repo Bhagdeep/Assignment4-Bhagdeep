@@ -18,7 +18,7 @@
   "homepage": "https://github.com/osu-cs290-sp20/master-assignment-4#readme",
   "dependencies": {},
   "devDependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "get-port": "^5.1.1",
     "jest": "^26.0.1",
     "port-pid": "0.0.7"
